@@ -12,7 +12,7 @@ I'm a passionate Mobile App Developer specializing in Flutter and React Native. 
 - 🤔 I’m seeking opportunities to expand my knowledge in cloud computing and AI integration in mobile apps.
 - 💬 Ask me about Flutter, Dart, React Native, and my journey from coding simple scripts to developing full-fledged mobile applications.
 - 📫 How to reach me: Drop me an email at hi@nimittsethiya.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nimittsethiya).
-- ⚡ Fun fact: When I'm not coding, I'm probably exploring the latest in AR/VR technologies or playing chess!
+- ⚡ Fun fact: When I'm not decoding the complexities of blockchain, I'm likely binge-watching the latest tech documentaries or sci-fi series!
 
 ## 🌐 Let's Connect and Create
 
