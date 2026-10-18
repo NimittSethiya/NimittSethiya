@@ -2,7 +2,7 @@
 
 **AI/ML engineer and technical lead. Building useful intelligence.**
 
-I design and build AI-enabled products, dependable backend systems, and tools that make complicated work feel simple. I'm currently **Special Project Lead at Millipixels** in Mohali, India.
+I design and build AI-enabled products, dependable backend systems, and tools that make complicated work feel simple. I'm currently **Special Project Lead at Millipixels**.
 
 🌐 [nimittsethiya.com](https://nimittsethiya.com) · ✉️ [hi@nimittsethiya.com](mailto:hi@nimittsethiya.com) · 💼 [LinkedIn](https://www.linkedin.com/in/nimittsethiya)
 
